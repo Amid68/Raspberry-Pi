@@ -1,6 +1,12 @@
 # Raspberry-Pi
 Explore my projects developed using Raspberry Pi Pico. Click on each project to view detailed information.
 
+![Raspberry Pi Pico](rpi_pico.jpeg)
+
+## 📌 Projects
+
+### **LED Control**
+
 - [**Raspberry Pi Pico Morse Code Blinker**](https://github.com/Amid68/Raspberry-Pi-Morse-Code-Blinker)  
   A "Hello World” project for the Raspberry Pi Pico.
 
